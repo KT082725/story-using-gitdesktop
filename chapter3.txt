@@ -1,1 +1,2 @@
 same as chapter 2 taken as an example.
+This is a commit made in chapter 3 master branch.
